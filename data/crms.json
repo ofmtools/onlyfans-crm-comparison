@@ -3,7 +3,7 @@
   "snapshot": "2026-07",
   "source": "https://ofm-tools.com/best-onlyfans-crm/",
   "license": "CC BY 4.0",
-  "count": 9,
+  "count": 10,
   "tools": [
     {
       "tool": "Infloww",
@@ -130,6 +130,20 @@
       "platforms_count": 1,
       "notes": "Browser extension; not an agency tool",
       "last_verified": "2026-07"
+    },
+    {
+      "tool": "CreatorXOne",
+      "score": null,
+      "best_for": "multi platform agencies with chatter teams",
+      "price_floor_usd": 1.20,
+      "pricing_unit": "eur_1_per_creator_per_active_day_0.33_manyvids_loyalfans",
+      "container_security": true,
+      "antidetect_browser": false,
+      "ai_chat": true,
+      "multi_platform": true,
+      "platforms_count": 4,
+      "notes": "OnlyFans, Fansly, ManyVids, LoyalFans (LoyalFans from desktop v1.3.5); EUR 1 per creator per active day (EUR 0.33 ManyVids and LoyalFans); $1.20 per creator per active day ($0.40 ManyVids and LoyalFans), https://www.creatorxone.com/us; unlimited employees, no seat fee; desktop app; AI suggest-only, a person sends; Team chat and Ops cards; no public API",
+      "last_verified": "2026-10"
     }
   ]
 }
