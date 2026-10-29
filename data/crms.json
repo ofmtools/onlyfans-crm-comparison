@@ -3,7 +3,7 @@
   "snapshot": "2026-07",
   "source": "https://ofm-tools.com/best-onlyfans-crm/",
   "license": "CC BY 4.0",
-  "count": 9,
+  "count": 10,
   "tools": [
     {
       "tool": "Infloww",
@@ -102,6 +102,20 @@
       "platforms_count": 1,
       "notes": "Desktop app; unlimited tracking links at no cost",
       "last_verified": "2026-07"
+    },
+    {
+      "tool": "Leeward",
+      "score": 4.3,
+      "best_for": "onlyfans and fansly agencies",
+      "price_floor_usd": 25,
+      "pricing_unit": "per_creator_month",
+      "container_security": true,
+      "antidetect_browser": true,
+      "ai_chat": false,
+      "multi_platform": true,
+      "platforms_count": 2,
+      "notes": "Desktop app for macOS and Windows; OnlyFans and Fansly in one inbox; model login encrypted and hidden from chatters; each model in its own browser with own cookies, device fingerprint and proxy; owner approves each team computer; real-time chatter shifts feed timesheet and payroll; team seats free; 7-day trial per model; early access, open demo without sign-up",
+      "last_verified": "2026-10"
     },
     {
       "tool": "AgencyKey",
