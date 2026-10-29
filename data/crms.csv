@@ -6,5 +6,6 @@ FansMetric,4.7,analytics,39,flat_month,false,false,false,false,1,"Earnings heatm
 OnlyFansAPI,4.7,builders and attribution,,usage_based,false,false,false,false,1,"API layer behind several OFM tools; Smart Links feed spender data to Meta",2026-07
 CreatorHero,4.5,chatter teams,200,per_agency_month,false,false,false,false,1,"Shift and people management for 20+ chatters; overkill below that headcount",2026-07
 OFManager,4.4,value,0,first_5_accounts_free_then_15_per_account_month,false,false,false,false,1,"Desktop app; unlimited tracking links at no cost",2026-07
+Leeward,4.3,onlyfans and fansly agencies,25,per_creator_month,true,true,false,true,2,"Desktop app for macOS and Windows; OnlyFans and Fansly in one inbox; model login encrypted and hidden from chatters; each model in its own browser with own cookies, device fingerprint and proxy; owner approves each team computer; real-time chatter shifts feed timesheet and payroll; team seats free; 7-day trial per model; early access, open demo without sign-up",2026-10
 AgencyKey,4.2,budget analytics,10,per_creator_month,false,false,false,false,1,"Cohort LTV and chargeback risk analytics; young product, trial first",2026-07
 CreatorBoost,4.1,solo creators,15,flat_month,false,false,false,false,1,"Browser extension; not an agency tool",2026-07
